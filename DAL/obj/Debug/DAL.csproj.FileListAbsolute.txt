@@ -1,0 +1,9 @@
+D:\K22_DUT\HK4\PBL3\code2\DAL\bin\Debug\DAL.dll
+D:\K22_DUT\HK4\PBL3\code2\DAL\bin\Debug\DAL.pdb
+D:\K22_DUT\HK4\PBL3\code2\DAL\bin\Debug\Model.dll
+D:\K22_DUT\HK4\PBL3\code2\DAL\bin\Debug\Model.pdb
+D:\K22_DUT\HK4\PBL3\code2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\K22_DUT\HK4\PBL3\code2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\K22_DUT\HK4\PBL3\code2\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\K22_DUT\HK4\PBL3\code2\DAL\obj\Debug\DAL.dll
+D:\K22_DUT\HK4\PBL3\code2\DAL\obj\Debug\DAL.pdb

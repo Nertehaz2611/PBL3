@@ -1,0 +1,11 @@
+D:\K22_DUT\HK4\PBL3\code2\BUS\bin\Debug\BUS.dll
+D:\K22_DUT\HK4\PBL3\code2\BUS\bin\Debug\BUS.pdb
+D:\K22_DUT\HK4\PBL3\code2\BUS\bin\Debug\DAL.dll
+D:\K22_DUT\HK4\PBL3\code2\BUS\bin\Debug\Model.dll
+D:\K22_DUT\HK4\PBL3\code2\BUS\bin\Debug\DAL.pdb
+D:\K22_DUT\HK4\PBL3\code2\BUS\bin\Debug\Model.pdb
+D:\K22_DUT\HK4\PBL3\code2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\K22_DUT\HK4\PBL3\code2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\K22_DUT\HK4\PBL3\code2\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\K22_DUT\HK4\PBL3\code2\BUS\obj\Debug\BUS.dll
+D:\K22_DUT\HK4\PBL3\code2\BUS\obj\Debug\BUS.pdb
